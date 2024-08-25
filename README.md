@@ -1,7 +1,7 @@
 # CODELAB 3 - EJERCICIO 1: HAPPY BIRTHDAY
 
 ## Vista previa
-![Resultado final](Captura_resultado.png)
+![Resultado final](Vista_previa.png)
 
 ## Ejecución en dispositivo físico
-![Vista_previa](Vista_previa.png)
+![Vista_previa](Captura_resultado.png)
