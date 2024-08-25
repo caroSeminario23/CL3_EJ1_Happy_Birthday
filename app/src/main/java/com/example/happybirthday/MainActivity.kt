@@ -53,10 +53,9 @@ fun GreetingText(message: String, from: String, modifier: Modifier = Modifier) {
     ) {
         Text(
             text = message,
-            fontSize = 100.sp,
+            fontSize = 90.sp,
             lineHeight = 116.sp,
             textAlign = TextAlign.Center, // orientación horizontal
-
             modifier = Modifier.padding(top = 16.dp)
         )
         Text(
